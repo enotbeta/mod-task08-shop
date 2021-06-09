@@ -2,6 +2,12 @@
 
 ## Task 08. Моделирование СМО: "магазин"
 
+Срок выполнения работы: **до 1 июня**
+
+![GitHub pull requests](https://img.shields.io/github/issues-pr/UNN-IASR/mod-task08-shop)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/UNN-IASR/mod-task08-shop)
+
+![Relative date](https://img.shields.io/date/1622494800)
 
 ### Задание
 
@@ -40,9 +46,9 @@
 
 ## Состав проекта
 
-- **include/task.h" - заголовочный файл для задачи
-- **src/task.cpp" - исходный файл для задачи
-- **src/main.cpp" - главный файл для задачи
+- **include/task.h** - заголовочный файл для задачи
+- **src/task.cpp** - исходный файл для задачи
+- **src/main.cpp** - главный файл для задачи
 
 
 ## Список участников/веток
